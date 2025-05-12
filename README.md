@@ -7,7 +7,14 @@
 
 ## 📁 주요 실습 내용
 
-- 텍스트 데이터 전처리 (One-hot, BoW, Word2Vec 등)
-- 회귀 모델 (단순회귀, 다중회귀, 릿지, 라쏘, 엘라스틱넷 등)
-- 분류 모델 (로지스틱 회귀, 앙상블 기법, Voting Classifier)
-- 감성 분석 (Amazon 리뷰 기반 Sentiment Analysis)
+- **텍스트 데이터 전처리**  
+  (Integer Encoding, One-hot, BoW, TDM, Word2Vec)
+
+- **회귀 모델 실습**  
+  (단순 회귀, 다중 회귀, 릿지, 라쏘, 엘라스틱넷)
+
+- **분류 모델 실습**  
+  (로지스틱 회귀, 나이브 베이즈, K-최근접 이웃, SVM, 의사결정트리, 앙상블 Voting Classifier)
+
+- **감성 분석 실습**  
+  (Amazon 리뷰 기반 Sentiment Analysis)
